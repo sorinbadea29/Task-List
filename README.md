@@ -1,3 +1,2 @@
 # Task-List
-Simple app build in HTML, Bootstrap and JavaScript with Local Storage
-(Add, Remove, Filter and Clear tasks)
+Simple app with Local Storage build in HTML, Bootstrap and JavaScript where you can Add, Remove, Filter and Clear tasks.
